@@ -1,0 +1,6 @@
+[submodule "clipQuest-backend"]
+	path = clipQuest-backend
+	url = https://github.com/Bfilahi/clipQuest-backend.git
+[submodule "clipQuest-frontend"]
+	path = clipQuest-frontend
+	url = https://github.com/Bfilahi/clipQuest-frontend.git
